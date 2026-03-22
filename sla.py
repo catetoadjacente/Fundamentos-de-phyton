@@ -1,0 +1,1 @@
+print("Por mim se vai para a cidade dolente,\n por mim se vai para a eterna dor, \n por mim se vai para a entre a perdida gente \n Deixai toda esperança, vós que entrais.")
