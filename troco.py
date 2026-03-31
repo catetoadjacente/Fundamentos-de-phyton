@@ -1,3 +1,3 @@
-L = float(input('valor da compra:'))
-D = float(input("valor recebido:"))
-print float('troco:', L - D)
+var2 = 1.0
+if var2 == 2.0:
+    print("O número é 2.0")

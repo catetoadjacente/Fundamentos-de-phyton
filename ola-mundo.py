@@ -16,7 +16,7 @@ lógico = True
 vazio = None
 
 
-#operaçoes aritimeticas
+'''#operaçoes aritimeticas
 (=)-siginifca "recebe"
 (==)-significa "igual"
 
@@ -42,7 +42,6 @@ var_bool_5 = 3 <= 3
 #true
 
 var_bool_6 = 3 >= 2
-#false
+#false'''
 
  
-print(0 == False > 4-3)
