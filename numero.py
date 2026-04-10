@@ -26,4 +26,5 @@ print(
 numero = int(input('digite aqui o número: '))
 while numero != secret_number:
     print('"Ha ha! Você está preso no meu loop!"')
-print('"Muito bem, trouxa! Você está livre agora."')
+else:
+    print('"Muito bem, trouxa! Você está livre agora."')
