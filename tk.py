@@ -1,5 +1,5 @@
 
-import tkinter as tk
+'''import tkinter as tk
 
 janela = tk.Tk()
 janela.geometry("400x300")
@@ -12,4 +12,8 @@ button2.grid(row=300, column=1, padx=10, pady=10)
 janela.title("oi")
 
 
-janela.mainloop()
+janela.mainloop()'''
+
+'''import tkinter as tk
+janela.geometry('400x300')
+'''
