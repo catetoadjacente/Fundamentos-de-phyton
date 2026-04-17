@@ -17,14 +17,14 @@ frame_baixo.place(relx=0.05, rely=0.8, relheight= 0.15, relwidth=0.9)
 
 
 palavra_topo = tk.Label(frame_topo, text='Frame superior', bg='lightblue')
-palavra_topo.place(relx=0.45, rely=0.25)
+palavra_topo.place(relx=0.5, rely=0.5, anchor='center')
 
 palavra_meio= tk.Label(frame_meio, text='Frame do meio', bg='lightgreen')
-palavra_meio.place(relx=0.45, rely=0.5)
+palavra_meio.place(relx=0.5, rely=0.5, anchor='center')
 
 
 palavra_baixo= tk.Label(frame_baixo, text= 'Frame inferior', bg= 'yellow',)
-palavra_baixo.place(relx=0.45, rely=0.25)
+palavra_baixo.place(relx=0.5, rely=0.5, anchor='center')
 
 
 janela.mainloop()
